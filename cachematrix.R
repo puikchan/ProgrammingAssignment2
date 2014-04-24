@@ -1,5 +1,5 @@
 ## Function makeCacheMatrix
-## It takes an argument x ot type numeric matrix
+## It takes an argument x of type numeric matrix
 ## It returns a list of 4 functions
 ## 	 list (set = set, get - get, getInv = set Inv, getInv = getInv)
 ## Example usage:
